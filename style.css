@@ -1,0 +1,23 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(photo.jpg);
+  height: 80vh;
+  width: 100vw;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(photo.jpg);
+  height: 80vh;
+  width: 100vw;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(photo.jpg);
+  height: 80vh;
+  width: 100vw;
+}
